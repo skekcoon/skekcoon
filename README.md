@@ -28,18 +28,17 @@
 </p>  
 
 ---
-<!--
+
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m learning **[Tech You're Learning]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Topics]**
-- 📫 How to reach me: **[Your Email or Contact]**
-- ⚡ Fun fact: **[Something Personal]**
+- 🔭 I’m currently working on **[Ranking up on HackTheBox](https://app.hackthebox.com/profile/2425807)**
+- 🌱 I’m learning **Penetration Testing**
+- 👯 Always happy to collaborate on **open source projects**
+- 💬 Ask me about **Economy, Finance, Math, or Machine Learning**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/skekcoon)
+- ⚡ **Fun fact:** *"skekCoon" is a mix of [Skeksis](https://en.wikipedia.org/wiki/Skeksis) (from The Dark Crystal) and my best friend—a [Maine Coon](https://fr.wikipedia.org/wiki/Maine_coon).*
 
 ---
--->
 
 ### 🛠️ My Tech Stack
 
@@ -55,18 +54,18 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skekcoon&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skekcoon&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/skekcoon"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
   <a href="https://skekcoon.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skekcoon&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skekcoon&layout=compact&theme=radical&hide_border=true" />
 </p>
