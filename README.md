@@ -1,33 +1,72 @@
-## Hi there 👋
+<!-- Guillaume Gilles's GitHub Profile -->
 
-<!-- skekCoon's GitHub Profile -->
-<div align="justify">
-<!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
+<h1 align="center">Hello there 👋, I'm Guillaume</h1>
+<p align="center">
+  <em>Data Scientist | Adjunct Professor | Lifelong Learner</em>
+</p>
+
+<p align="left">
+  <strong>
     <samp>
-      <b>
-        I'm skekCoon
-      <br>
-        I'd like to unleash creative code with no boundaries in the open-source world.
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=Writing+code+'probably'.">
+      「
     </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+  </strong>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF74E&width=700&height=100&lines=Breaking%2C+fixing%2C+and+securing%E2%80%94one+keystroke+at+a+time." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="right">
+  <strong>
+    <samp>
+      」
+    </samp>
+  </strong>
+</p>  
+
+---
 <!--
-**skekcoon/skekcoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[Your Project]**
+- 🌱 I’m learning **[Tech You're Learning]**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **[Topics]**
+- 📫 How to reach me: **[Your Email or Contact]**
+- ⚡ Fun fact: **[Something Personal]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skekcoon&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skekcoon&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/skekcoon"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+  <a href="https://skekcoon.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white"></a>
+</p>
